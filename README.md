@@ -21,7 +21,6 @@
 - 👨🏻‍🎓Cursando Análise e Desenvolvimento de Sistemas.
 - 📚**Ferramentas**: Excel, Power BI, Spark, Airflow, Hadoop, Docker, AWS e Azure.
 - 📚**Linguagem de programação**: Python e SQL.
-
 - ##
 ### Você também me encontra em:
 <a href="https://www.linkedin.com/in/gustavo-andrade-993095349/"> 
